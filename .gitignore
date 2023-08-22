@@ -1,7 +1,7 @@
-cypress/downloads
-cypress/fixture
-cypress/support
-cypress/videos
-node_modules
-package.json
-yam.lock
+
+.\package.json
+.\yam.lock
+.\cypress\downloads
+.\cypress\fixture
+.\cypress\support
+.\cypress\videos
